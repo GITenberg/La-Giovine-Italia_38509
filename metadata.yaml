@@ -1,0 +1,35 @@
+_repo: La-Giovine-Italia_38509
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38509-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Mazzini, Giuseppe
+    alias: Brown, Giorgio Rossi
+    birthdate: 1805
+    deathdate: 1872
+    gutenberg_agent_id: '33687'
+    url: http://www.gutenberg.org/2009/agents/33687
+    wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Mazzini
+  editor:
+    agent_name: Menghini, Mario
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '43813'
+    url: http://www.gutenberg.org/2009/agents/43813
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2012-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38509'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Italy -- History -- 1815-1870'
+title: La Giovine Italia
+url: http://www.gutenberg.org/ebooks/38509
